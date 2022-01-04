@@ -6,6 +6,11 @@ center {
   background-color: pink; 
 }
 
+h1 {
+  color: purple;
+  text-shadow: 2px, 2px, #ffb6c1;
+}
+
 nav {
   list-style-type: none;
   background-color: #333;
